@@ -11,7 +11,7 @@ Web開発（主にフロントエンド）を学びながら、実プロジェ�
   - Repo: [https://github.com/USER/REPO](https://github.com/Taishun-Hagihara/talkmates-site)
 - **ポートフォリオサイト**
   - Demo: https://taishun-portfolio.com/
-  - Repo: https://github.com/USER/REPO
+  - Repo: [https://github.com/USER/REPO](https://github.com/Taishun-Hagihara/taishun-portfolio)
 
 ## 今取り組んでいること
 - TalkMatesサイトの改善（UI/UX・運用）
