@@ -9,7 +9,7 @@ Web開発（主にフロントエンド）を学びながら、実プロジェ�
 - **TalkMates サークルWebサイト**（イベント掲載・管理）
   - Demo: https://talkmates-circle.com/
   - Repo: https://github.com/USER/REPO
-- **ポートフォリオサイト**(Workのページを作成できていないが一応公開している)
+- **ポートフォリオサイト**
   - Demo: https://taishun-portfolio.com/
   - Repo: https://github.com/USER/REPO
 
