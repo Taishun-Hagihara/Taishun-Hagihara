@@ -1,13 +1,14 @@
 # 萩原 大竣 / Taishun Hagihara 👋
 Web開発（主にフロントエンド）を学びながら、実プロジェクトを継続開発しています。
 
-- Tech: JavaScript / React / Tailwind CSS / Supabase / AWS(S3, CloudFront)/Vercel
+- Tech: JavaScript / React / Tailwind CSS / Supabase / AWS(S3, CloudFront)/ Vercel
 - Portfolio: https://taishun-portfolio.com/
 - Contact: hagitaishun@gmail.com
 
 ## 代表プロジェクト
 - **個人開発運用サービス**
-  -Demo: https://agentskill-shelf.com/ja
+  
+  - Demo: https://agentskill-shelf.com/ja
 - **TalkMates サークルWebサイト**（イベント掲載・管理）
   - Demo: https://talkmates-circle.com/
   - Repo: [https://github.com/USER/REPO](https://github.com/Taishun-Hagihara/talkmates-site)
