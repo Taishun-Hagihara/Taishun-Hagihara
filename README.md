@@ -6,7 +6,7 @@ Web開発（主にフロントエンド）を学びながら、実プロジェ�
 - Contact: hagitaishun@gmail.com
 
 ## 代表プロジェクト
-- **個人開発運用サービス**
+- **個人開発運用サービスSkillShelf**
   
   - Demo: https://agentskill-shelf.com/ja
 - **TalkMates サークルWebサイト**（イベント掲載・管理）
